@@ -1,0 +1,324 @@
+
+article {
+	position: fixed;
+	z-index: 10;
+	width: 80vw;
+	left: 10vw;
+	top: 5vh;
+	height: 90vh;
+	opacity: 1;
+	transition: top 0.5s, opacity 0.5s;
+}
+
+article.hide {
+	top: 100vh;
+	opacity: 0;
+}
+
+h5 {
+	font-size: 3vh;
+	overflow: ellipsis;
+	text-align: center;
+	flex-grow: 1;
+	font-weight: normal;
+	padding-right: 10vh;
+}
+
+.article-body {
+	border-radius: 4vh;
+	background: white;
+	box-shadow: 0 0 20vw -10vw black, 0 0 0 9999px rgba(0, 0, 0, 0.5);
+	height: 80vh;
+	overflow-y: scroll;
+}
+
+.article-body p {
+	margin: 5vh;
+	line-height: 1.5;
+}
+
+article nav {
+	height: 10vh;
+	display: flex;
+	text-shadow: 0 0.25vh 0.5vh rgba(0, 0, 0, 0.5);
+	align-items: center;
+	color: white;
+	position: relative;
+	z-index: 1;
+}
+
+article nav button {
+	appearance: none;
+	background: transparent;
+	border: none;
+	color: inherit;
+	font-size: 5vh;
+	padding: 0 5vh;
+	text-shadow: inherit;
+	cursor: pointer;
+}
+
+.article-body header {
+	height: 50vh;
+	background-size: cover;
+	background-position: center;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #ECEFF1;
+	margin: 0;
+	font-size: 2.5vh;
+	line-height: 1;
+	font-family: 'Roboto', sans-serif;
+	color: #263238;
+}
+
+.container {
+	display: flex;
+	position: absolute;
+	wdith: min-content;
+	overflow: hidden;
+	transition: filter 1s;
+
+	filter: url(#blur);
+  -webkit-filter: url(#blur);
+  will-change: filter, -webkit-filter;
+  transform: translateZ(0);
+}
+
+/*
+.popup-open.container {
+	filter: blur(1vh);
+}
+*/
+
+.timeline, .article-body p {
+	font-family: 'Roboto Slab', sans-serif;
+}
+
+aside {
+	width: 50vh;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	padding: 15vh 10vh;
+}
+
+aside a {
+	font-size: 3vh;
+	color: #2962FF;
+	position: absolute;
+	bottom: 15vh;
+	left: 10vh;
+	width: 30vh;
+	line-height: 1.25;
+	animation: blend 1s alternate infinite;
+}
+
+aside a:hover {
+	color: #FF1744 !important;
+	animation: none;
+}
+
+main {
+	height: 100vh;
+	top: 0;
+	position: relative;
+	padding-top: 4vh;
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 6vh;
+}
+
+h2 {
+	font-size: inherit;
+}
+
+h3 {
+	font-weight: 500;
+}
+
+h2 {
+	font-weight: 600;
+	z-index: 1;
+	position: relative;
+}
+
+h4 {
+	font-weight: 300;
+	font-family: 'Roboto', sans-serif;
+	z-index: 3;
+	position: absolute;
+	left: 1.5vh;
+	bottom: 1.5vh;
+	font-size: 5vh;
+	border-width: 0 0 0.5vh 0.5vh;
+	border-style: solid;
+	padding: 0 10vh 0 1vh;
+	line-height: 0.5;
+	height: 4vh;
+}
+
+.s-china-india h4 {
+	border-color: #F48FB1;
+}
+.s-africa-islamic h4 {
+	border-color: #80CBC4;
+}
+.s-americas h4 {
+	border-color: #FFAB91;
+}
+.s-europe h4 {
+	border-color: #9FA8DA;
+}
+
+.timeline-summary-viewbox {
+	height: 24vh;
+	align-items: center;
+	padding: 0 10vh;
+	position: relative;
+	transition: background 0.1s;
+	background: transparent;
+	cursor: zoom-in;
+}
+.timeline-summary-viewbox:hover {
+	background: white;
+}
+
+.timeline-summary-viewbox .bar, .timeline-summary-viewbox .dot {
+	font-size: 1.5vh;
+	border-radius: 0.5vh;
+	position: absolute;
+	white-space: nowrap;
+	opacity: 0.9;
+	transition: all 0.1s;
+	cursor: pointer;
+}
+
+.timeline-summary-viewbox .dot {
+	width: 1vh;
+	height: 1vh;
+	margin-left: -0.5vh;
+	padding: 0.5vh;
+	z-index: 1;
+}
+
+.timeline-summary-viewbox .dot-details {
+	margin-left: -1000px;
+	width: 2000px;
+	text-align: center;
+	margin-top: -2.75vh;
+}
+
+.timeline-summary-viewbox .bar {
+	padding: 0.5vh;
+	transform: translateY(-50%);
+	z-index: 2;
+}
+
+.bar:hover, .dot:hover {
+	text-shadow: 0 0 0.5vh yellow, 0 0 1vh yellow;
+	outline: 0.5vh solid yellow;
+	z-index: 4;
+}
+
+.s-china-india {
+	color: #880E4F;
+}
+.s-africa-islamic {
+	color: #004D40;
+}
+.s-americas {
+	color: #BF360C;
+}
+.s-europe {
+	color: #1A237E;
+}
+
+.s-china-india .bar {
+	background: #F48FB1;
+}
+.s-africa-islamic .bar {
+	background: #80CBC4;
+}
+.s-americas .bar {
+	background: #FFAB91;
+}
+.s-europe .bar {
+	background: #9FA8DA;
+}
+
+.s-china-india .dot {
+	background: #880E4F;
+	box-shadow: 0 0 0 0.5vh #F48FB1;
+}
+.s-africa-islamic .dot {
+	background: #004D40;
+	box-shadow: 0 0 0 0.5vh #80CBC4;
+}
+.s-americas .dot {
+	background: #BF360C;
+	box-shadow: 0 0 0 0.5vh #FFAB91;
+}
+.s-europe .dot {
+	background: #1A237E;
+	box-shadow: 0 0 0 0.5vh #9FA8DA;
+}
+
+
+
+
+
+
+
+
+section {
+	position: fixed;
+	height: 80vh;
+	top: 10vh;
+	box-shadow: 0 0 0 9999px black;
+	background: lightgray;
+	overflow-x: scroll;
+	width: 100vw;
+	display: none;
+}
+
+.marker {
+	border-left: 1px solid #B0BEC5;
+	padding: 0.5vh;
+	color: #607D8B;
+	width: 0;
+	font-size: 1.5vh;
+	pointer-events: none;
+}
+
+.marker, .break {
+	top: 0;
+	bottom: 0;
+	position: absolute;
+}
+
+.break {
+	background-image: url('break.png');
+	background-size: contain;
+	width: 2vh;
+}
+
+@keyframes blend {
+	from {
+		color: #7C4DFF;
+	}
+	to {
+		color: #6200EA;
+	}
+}
