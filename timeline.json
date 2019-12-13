@@ -64,7 +64,7 @@
 			"name" : "Han Dynasty",
 			"type" : "range",
 			"begin" : -206,
-			"end" : -220,
+			"end" : 220,
 			"region" : ".s-china-india",
 			"shift" : -3,
 			"description" : "The Great Wall of the Han Dynasty (202BC-220AD), the longest one in history, once spanned over 6,214 miles across deserts, grasslands, mountains, rivers, and plains in north China. It consisted of an outer wall and an inner wall.",
