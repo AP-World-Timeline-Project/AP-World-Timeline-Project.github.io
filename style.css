@@ -1,4 +1,9 @@
 
+::-webkit-scrollbar {
+	display: none;
+	display: none !important;
+}
+
 article {
 	position: fixed;
 	z-index: 10;
