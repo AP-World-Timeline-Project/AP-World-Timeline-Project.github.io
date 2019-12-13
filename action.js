@@ -49,7 +49,7 @@ $('article nav button').on('click', function (e) {
 		  blurFilter.setAttribute('stdDeviation', blurSize + ',0');
 
 		  // forces browser repaint
-		  scrollView.css('margin-bottom', cheat + 'px');
+		  scrollView.css('margin-bottom', -cheat + 'px');
 		 }
 	  
 	  requestAnimationFrame(blur);
