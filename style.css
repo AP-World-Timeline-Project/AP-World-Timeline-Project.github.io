@@ -88,18 +88,14 @@ body {
 	wdith: min-content;
 	overflow: hidden;
 	transition: filter 1s;
-
-	filter: url(#blur);
-  -webkit-filter: url(#blur);
-  will-change: filter, -webkit-filter;
-  transform: translateZ(0);
+	filter: none;
+	will-change: filter;
+	transform: translateZ(0);
 }
 
-/*
 .popup-open.container {
 	filter: blur(1vh);
 }
-*/
 
 .timeline, .article-body p {
 	font-family: 'Roboto Slab', sans-serif;
