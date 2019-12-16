@@ -12,7 +12,6 @@ article {
 	left: 0;
 	right: 0;
 	top: 2.5vh;
-	height: 92.5vh;
 	opacity: 1;
 	transition: top 0.5s, opacity 0.5s;
 	margin: 0 auto;
@@ -36,7 +35,7 @@ h5 {
 	border-radius: 4vh;
 	background: white;
 	box-shadow: 0 0 20vw -10vw black, 0 0 0 9999px rgba(0, 0, 0, 0.5);
-	height: 80vh;
+	height: 82.5vh;
 	overflow-y: scroll;
 }
 
