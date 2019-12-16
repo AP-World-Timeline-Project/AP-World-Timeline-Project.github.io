@@ -87,7 +87,7 @@ body {
 .container {
 	display: flex;
 	position: absolute;
-	wdith: min-content;
+	width: min-content;
 	transition: filter 1s;
 	filter: none;
 	will-change: filter;
