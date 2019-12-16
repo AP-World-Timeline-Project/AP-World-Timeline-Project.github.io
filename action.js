@@ -57,4 +57,4 @@ $('article nav button').on('click', function (e) {
 
 	requestAnimationFrame(blur);
 
-})();
+});
