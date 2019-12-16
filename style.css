@@ -232,6 +232,7 @@ h4 {
 .timeline-summary-viewbox .bar h2 {
 	position: sticky !important;
 	left: 1.5vh;
+	display: inline-block;
 }
 
 .bar:hover, .dot:hover {
