@@ -59,10 +59,9 @@ $.getJSON('timeline.json', function(timelineData) {
   	if (cursor >= SCALE[segment][0]) {
   		segment++;
   	}
-		if (cursor >= GLOBAL_MAX) {
-			plotNow();
-			break;
-		}
+	if (cursor >= GLOBAL_MAX) {
+		break;
+	}
   }
 
   $('main').css('width', widthCalc(GLOBAL_MIN, GLOBAL_MAX) + 'vh');
