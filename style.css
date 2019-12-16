@@ -230,7 +230,8 @@ h4 {
 
 .timeline-summary-viewbox .bar h2 {
 	position: sticky !important;
-	left: 1.5vh;
+	position: -webkit-sticky !important;
+	left: 1vh;
 	display: inline-block;
 }
 
