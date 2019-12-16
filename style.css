@@ -134,7 +134,7 @@ main {
 	padding-top: 4vh;
 }
 
-h1, h2, h3, h4, h5 {
+h1, , h3, h4, h5 {
 	margin: 0;
 }
 
@@ -229,6 +229,11 @@ h4 {
 	z-index: 2;
 }
 
+.timeline-summary-viewbox .bar h2 {
+	position: sticky !important;
+	left: 1.5vh;
+}
+
 .bar:hover, .dot:hover {
 	text-shadow: 0 0 0.5vh yellow, 0 0 1vh yellow;
 	outline: 0.5vh solid yellow;
@@ -277,13 +282,6 @@ h4 {
 	background: #1A237E;
 	box-shadow: 0 0 0 0.5vh #9FA8DA;
 }
-
-
-
-
-
-
-
 
 section {
 	position: fixed;
