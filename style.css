@@ -99,10 +99,15 @@ article header button {
 	-webkit-backdrop-filter: blur(0.5vh);
 	backdrop-filter: blur(0.5vh);
 	opacity: 0.9;
+	font-size: 5vh;
 }
 
 article header button span {
-	padding: 2.5vh 2vh;
+	padding: 2.5vh 2vh 0 2vh;
+}
+
+article nav button span {
+	padding: 1.5vh 0 0 0;
 }
 
 #left {
@@ -130,7 +135,7 @@ article button {
 	border-radius: 100%;
 	vertical-align: top;
 	line-height: 1 !important;
-	font-size: 5vh;
+	padding: 0;
 }
 
 article nav button {
@@ -138,8 +143,8 @@ article nav button {
 	text-align: center;
 	height: 6vh;
 	width: 6vh;
-	padding: 0;
 	position: relative;
+	font-size: 3vh;
 }
 
 .display, figcaption {
