@@ -93,7 +93,6 @@ article header button {
 	position: absolute;
 	height: 10vh;
 	width: 10vh;
-	font-size: 4vh;
 	color: white;
 	background: #333333;
 	mix-blend-mode: soft-light;
@@ -103,7 +102,7 @@ article header button {
 }
 
 article header button span {
-	padding: 2.5vh;
+	padding: 2.5vh 2vh;
 }
 
 #left {
@@ -130,11 +129,12 @@ article button {
 	color: inherit;
 	border-radius: 100%;
 	vertical-align: top;
+	line-height: 1 !important;
+	font-size: 5vh;
 }
 
 article nav button {
 	background: rgba(0, 0, 0, 0.25);
-	font-size: 4.5vh;
 	text-align: center;
 	height: 6vh;
 	width: 6vh;
@@ -202,7 +202,7 @@ html, body {
 }
 
 .popup-open.container {
-	filter: blur(1vh);
+	filter: blur(1vh) saturate(1.25);
 	pointer-events: none;
 }
 
@@ -255,10 +255,10 @@ h2 {
 }
 
 .timeline-summary-viewbox .bar {
-	text-shadow: 0 0 1px white;
+	text-shadow: 0 0 1px white, 0 0 2px white;
 }
 .timeline-summary-viewbox .dot {
-	text-shadow: 0 0 2px white;
+	text-shadow: 0 0 2px white, 0 0 3px white;
 }
 
 h3 {
@@ -463,3 +463,21 @@ h3, .display {
 		color: #2979FF;
 	}
 }
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
+
+  .timeline-summary-viewbox .bar {
+		text-shadow: 0 0 1px white;
+	}
+	.timeline-summary-viewbox .dot {
+		text-shadow: 0 0 2px white;
+	}
+
+}
+
