@@ -35,7 +35,11 @@ function plot(element, year, loc, major = true) {
 	);
 }
 
+var timelineDataJSON;
+
 $.getJSON('timeline.json', function(timelineData) {
+
+	timelineDataJSON = timelineData;
 
 	const SCALE = [
 		[GLOBAL_MIN],
@@ -77,12 +81,12 @@ $.getJSON('timeline.json', function(timelineData) {
 		}
 	}
 
-	$('.container, main').css('width', widthCalc(GLOBAL_MIN, GLOBAL_MAX) + 'vh');
+	$('.timeline-summary-viewbox, .container, main').css('width', widthCalc(GLOBAL_MIN, GLOBAL_MAX) + 'vh');
 
-	for (let evt of timelineData.events) {
+	for (let [i, evt] of timelineData.events.entries()) {
 
 		let lineSelectors = evt.region.map(x => ({
-			'Africa &amp; the Islamic World' : '.s-africa-islamic',
+			'Africa & the Islamic World' : '.s-africa-islamic',
 			'Asia' : '.s-china-india',
 			'Europe' : '.s-europe',
 			'The Americas' : '.s-americas'
@@ -92,11 +96,7 @@ $.getJSON('timeline.json', function(timelineData) {
 			$(lineSelectors).append(`
 				<div class='bar' style='width: ${widthCalc(evt.begin, evt.end)}vh; top: ${evt.shift + 12}vh; left: ${widthCalc(GLOBAL_MIN, evt.begin)}vh;'>
 					<h2>${evt.name}</h2>
-					<p hidden class='desc'>${evt.description}</p>
-					<address hidden>${evt.picture}</address>
-					<time hidden>${yearify(evt.begin)} &ndash; ${yearify(evt.end)}</time>
-					<p hidden class='regions'>${evt.region.join(', ')}</p>
-					<p hidden class='unit'>${evt.unit}</p>
+					<p hidden class='id'>${i}</p>
 				</div>
 			`);
 		}
@@ -105,11 +105,7 @@ $.getJSON('timeline.json', function(timelineData) {
 				<div class='dot' style='top: ${evt.shift + 12}vh; left: ${widthCalc(GLOBAL_MIN, evt.at)}vh;'>
 					<div class='dot-details'>
 						<h2>${evt.name}</h2>
-						<p hidden class='desc'>${evt.description}</p>
-						<address hidden>${evt.picture}</address>
-						<time hidden>${yearify(evt.at)}</time>
-						<p hidden class='regions'>${evt.region.join(', ')}</p>
-						<p hidden class='unit'>${evt.unit}</p>
+						<p hidden class='id'>${i}</p>
 					</div>
 				</div>
 			`);

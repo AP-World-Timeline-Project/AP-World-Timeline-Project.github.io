@@ -7,10 +7,15 @@
 			"type" : "range",
 			"begin" : -10000,
 			"end" : -4500,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : 0,
 			"description" : "The Neolithic Revolution started around 10,000 B.C. in the Fertile Crescent, a boomerang-shaped region of the Middle East where humans first took up farming. Shortly after, Stone Age humans in other parts of the world also began to practice agriculture.",
-			"picture" : "https://libcom.org/files/images/blog/neolithic.jpg"
+			"picture" : [
+				{
+					"url" : "https://libcom.org/files/images/blog/neolithic.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -21,7 +26,12 @@
 			"region" : ["Asia"],
 			"shift" : 0,
 			"description" : "Confucianism was developed in China by Master Kong in 551-479 BC, who was given the name Confucius by Jesuit missionaries who were visiting there. However, the fundamental principles of Confucianism began before his birth, during the Zhou Dynasty.",
-			"picture" : "https://cdn.britannica.com/10/184710-050-D6503292/Confucius-Shanghai-China.jpg"
+			"picture" : [
+				{
+					"url" : "https://cdn.britannica.com/10/184710-050-D6503292/Confucius-Shanghai-China.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -31,7 +41,12 @@
 			"region" : ["Asia"],
 			"shift" : -6,
 			"description" : "Buddhism founded in the late 6th century B.C.  by Siddhartha Gautama is an important religion in most of the countries of Asia. The Buddha was born in 563 B.C.E. in a place called Lumbini near the Himalayan foothills, and he began teaching around Benares.",
-			"picture" : "https://www.diamondway-buddhism.org/images/buddhism.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.diamondway-buddhism.org/images/buddhism.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -42,7 +57,12 @@
 			"region" : ["Asia"],
 			"shift" : 0,
 			"description" : "Most scholars believe Hinduism started somewhere between 2300 B.C. and 1500 B.C. in the Indus Valley, near modern-day Pakistan. But many Hindus argue that their faith is timeless and has always existed. Unlike other religions, Hinduism has no one founder but is instead a fusion of various beliefs.",
-			"picture" : "http://indiafacts.org/wp-content/uploads/2018/07/The-General-Framework-of-Hinduism-02-1000x500.jpg"
+			"picture" : [
+				{
+					"url" : "http://indiafacts.org/wp-content/uploads/2018/07/The-General-Framework-of-Hinduism-02-1000x500.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -53,7 +73,12 @@
 			"region" : ["Europe"],
 			"shift" : -3,
 			"description" : "Alexander the Great was an ancient Macedonian ruler and one of history’s greatest military minds who, as King of Macedonia and Persia, established the largest empire the ancient world had ever seen. 338 B.C.",
-			"picture" : "https://resize.hswstatic.com/w_907/gif/alexander-great-1.jpg"
+			"picture" : [
+				{
+					"url" : "https://resize.hswstatic.com/w_907/gif/alexander-great-1.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -64,7 +89,12 @@
 			"region" : ["Asia"],
 			"shift" : -3,
 			"description" : "Archaeology suggests that the migration eastward occurred in roughly two waves, the first occurring in the Bismarck Archipelago, Samoa and Tonga from 1600–1200 BC, and the second occurring later and spreading to the outer reaches of the Polynesian Triangle, bordered by Hawaii, Easter Island and New Zealand.",
-			"picture" : "https://nzhistory.govt.nz/files/styles/fullsize/public/images/the-direction-and-timing-of-settlement.jpg"
+			"picture" : [
+				{
+					"url" : "https://nzhistory.govt.nz/files/styles/fullsize/public/images/the-direction-and-timing-of-settlement.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -75,7 +105,12 @@
 			"region" : ["Asia"],
 			"shift" : -3,
 			"description" : "The Great Wall of the Han Dynasty (202BC-220AD), the longest one in history, once spanned over 6,214 miles across deserts, grasslands, mountains, rivers, and plains in north China. It consisted of an outer wall and an inner wall.",
-			"picture" : "https://www.ancient-origins.net/sites/default/files/field/image/Golden-Age-of-China.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.ancient-origins.net/sites/default/files/field/image/Golden-Age-of-China.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -85,7 +120,12 @@
 			"region" : ["Asia"],
 			"shift" : 6,
 			"description" : "The Great Wall of the Han Dynasty (202BC-220AD), the longest one in history, once spanned over 6,214 miles across deserts, grasslands, mountains, rivers, and plains in north China. It consisted of an outer wall and an inner wall.",
-			"picture" : "https://s3.amazonaws.com/libapps/accounts/51652/images/the_great_wall.JPG"
+			"picture" : [
+				{
+					"url" : "https://s3.amazonaws.com/libapps/accounts/51652/images/the_great_wall.JPG",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -96,7 +136,12 @@
 			"region" : ["Europe"],
 			"shift" : 6,
 			"description" : "The Roman Republic was the era of classical Roman civilization beginning with the overthrow of the Roman Kingdom, traditionally dated to 509 BC, and ending in 27 BC with the establishment of the Roman Empire. The Roman Empire was the post-Republican period of ancient Rome, consisting of large territorial holdings around the Mediterranean Sea in Europe, North Africa and West Asia ruled by emperors.",
-			"picture" : "https://cdn.britannica.com/45/154245-050-4F21A9EE/Ruins-Forum-Rome.jpg"
+			"picture" : [
+				{
+					"url" : "https://cdn.britannica.com/45/154245-050-4F21A9EE/Ruins-Forum-Rome.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -107,7 +152,12 @@
 			"region" : ["Europe"],
 			"shift" : 0,
 			"description" : "Ancient Greece was a civilization belonging to a period of Greek history from the Greek Dark Ages of the 12th–9th centuries BC to the end of antiquity. Immediately following this period was the beginning of the Early Middle Ages and the Byzantine era.",
-			"picture" : "https://img2.storyblok.com/4098x1200/smart/filters:format(jpeg)/f/53624/4096x1260/fc722ea06b/gwa_4096x1260.png"
+			"picture" : [
+				{
+					"url" : "https://img2.storyblok.com/4098x1200/smart/filters:format(jpeg)/f/53624/4096x1260/fc722ea06b/gwa_4096x1260.png",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -115,10 +165,15 @@
 			"type" : "range",
 			"begin" : -550,
 			"end" : -330,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : 0,
 			"description" : "The Persian Empire is the name given to a series of dynasties centered in modern-day Iran that spanned several centuries from the sixth century B.C. to the twentieth century A.D. The first Persian Empire, founded by Cyrus the Great around 550 B.C., became one of the largest empires in history, stretching from Europe’s Balkan Peninsula in the West to India’s Indus Valley in the East.",
-			"picture" : "https://i.redd.it/yrf8sktrd0g01.jpg"
+			"picture" : [
+				{
+					"url" : "https://i.redd.it/yrf8sktrd0g01.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -126,10 +181,15 @@
 			"type" : "range",
 			"begin" : 224,
 			"end" : 651,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : 3,
 			"description" : "The Persian Empire is the name given to a series of dynasties centered in modern-day Iran that spanned several centuries from the sixth century B.C. to the twentieth century A.D. The first Persian Empire, founded by Cyrus the Great around 550 B.C., became one of the largest empires in history, stretching from Europe’s Balkan Peninsula in the West to India’s Indus Valley in the East.",
-			"picture" : "https://i.pinimg.com/originals/6f/cb/f3/6fcbf32ded4180a5bcd7bcb331bbab62.jpg"
+			"picture" : [
+				{
+					"url" : "https://i.pinimg.com/originals/6f/cb/f3/6fcbf32ded4180a5bcd7bcb331bbab62.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -137,10 +197,15 @@
 			"type" : "range",
 			"begin" : 1501,
 			"end" : 1736,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : 0,
 			"description" : "The Safavid Empire was a Persian military state that dominated the region for two centuries and initiated one of Persia's golden ages. Founded by Shah Ismail I, the empire stretched across modern-day Afghanistan, Armenia, Iran, Iraq, Syria, Uzbekistan and parts of Turkey and Russia.",
-			"picture" : "http://www.iranchamber.com/history/safavids/images/shah_esmail_uzbek.jpg"
+			"picture" : [
+				{
+					"url" : "http://www.iranchamber.com/history/safavids/images/shah_esmail_uzbek.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -150,7 +215,12 @@
 			"region" : ["Europe"],
 			"shift" : -6,
 			"description" : "The fall of the Western Roman Empire in 476 was funny for the barbarians.",
-			"picture" : "https://agentsinrome.weebly.com/uploads/2/9/2/1/29211829/5635866.jpg?709"
+			"picture" : [
+				{
+					"url" : "https://agentsinrome.weebly.com/uploads/2/9/2/1/29211829/5635866.jpg?709",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -158,10 +228,15 @@
 			"type" : "range",
 			"begin" : 600,
 			"end" : 700,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : 0,
 			"description" : "Date the creation of Islam to the 7th centuy, making it the youngest of the major world religions. Islam started in Mecca, in modern-day Saudi Arabia, during the time of the prophet Muhammad's life.",
-			"picture" : "https://winstonchurchill.hillsdale.edu/wp-content/uploads/2016/03/3855627586_4db6944f4e_o-840x430.jpg"
+			"picture" : [
+				{
+					"url" : "https://winstonchurchill.hillsdale.edu/wp-content/uploads/2016/03/3855627586_4db6944f4e_o-840x430.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -172,7 +247,12 @@
 			"region" : ["Europe"],
 			"shift" : 0,
 			"description" : "Christianity began in the 1st century AD after Jesus died as a Jewish sect in Judea, but quickly spread throughout the Roman empire. Despite early persecution of Christians, it later became the state religion. In the Middle Ages it spread into Northern Europe and Russia.",
-			"picture" : "https://samharris.org/wp-content/uploads/2018/05/sermonechoes.jpg"
+			"picture" : [
+				{
+					"url" : "https://samharris.org/wp-content/uploads/2018/05/sermonechoes.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -183,7 +263,12 @@
 			"region" : ["Asia"],
 			"shift" : -6,
 			"description" : "The Indian Ocean Trade began with small trading settlements around 800 A.D. and declined in the 1500's when Portugal invaded and tried to run the trade for its own profit. As trade intensified between Africa and Asia, prosperous city-states flourished along the eastern coast of Africa.",
-			"picture" : "https://images.ctfassets.net/cnu0m8re1exe/1HPiuimWmWnvhDmMFGVGNK/ef339cee3fdf9f3c7d5e14f0dd12650d/DSC-OS0916_01.jpg?w=650&h=433&fit=fill"
+			"picture" : [
+				{
+					"url" : "https://images.ctfassets.net/cnu0m8re1exe/1HPiuimWmWnvhDmMFGVGNK/ef339cee3fdf9f3c7d5e14f0dd12650d/DSC-OS0916_01.jpg?w=650&h=433&fit=fill",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -191,10 +276,15 @@
 			"type" : "range",
 			"begin" : 700,
 			"end" : 1600,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : 6,
 			"description" : "Trans-Saharan trade requires travel across the Sahara (north and south) to reach sub-Saharan Africa from the North African coast, Europe, to the Levant. While existing from prehistoric times, the peak of trade extended from the 8th century until the early 17th century. The Sahara once had a very different environment.",
-			"picture" : "https://images.fineartamerica.com/images-medium-large-5/1-camel-caravan-going-through-the-sand-dunes-in-the-sahara-desert-manon-manuel.jpg"
+			"picture" : [
+				{
+					"url" : "https://images.fineartamerica.com/images-medium-large-5/1-camel-caravan-going-through-the-sand-dunes-in-the-sahara-desert-manon-manuel.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -205,7 +295,12 @@
 			"region" : ["Asia"],
 			"shift" : -3,
 			"description" : "The Tang dynasty or the Tang Empire was an imperial dynasty of China that ruled from 618 to 907, with an interregnum between 690 and 705. It was preceded by the Sui dynasty and followed by the Five Dynasties and Ten Kingdoms period in Chinese history.",
-			"picture" : "https://www.history.com/.image/t_share/MTU3ODc5MDg3MjM3MzA5NzY5/emperor-taizong-of-tang-599-649-second-emperor-of-the-tang-dynasty-of-china-from-626-to-649-audience-to-the-ambassador-of-tibet.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.history.com/.image/t_share/MTU3ODc5MDg3MjM3MzA5NzY5/emperor-taizong-of-tang-599-649-second-emperor-of-the-tang-dynasty-of-china-from-626-to-649-audience-to-the-ambassador-of-tibet.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -213,10 +308,15 @@
 			"type" : "range",
 			"begin" : 1096,
 			"end" : 1291,
-			"region" : ["Europe", "Africa &amp; the Islamic World"],
+			"region" : ["Europe", "Africa & the Islamic World"],
 			"shift" : 0,
 			"description" : "The Crusades were a series of religious wars between Christians and Muslims started primarily to secure control of holy sites considered sacred by both groups. In all, 8 major Crusade expeditions occurred between 1096 and 1291.",
-			"picture" : "https://onepeterfive.com/wp-content/uploads/2015/03/crusades-1.png"
+			"picture" : [
+				{
+					"url" : "https://onepeterfive.com/wp-content/uploads/2015/03/crusades-1.png",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -227,7 +327,12 @@
 			"region" : ["Asia"],
 			"shift" : 6,
 			"description" : "In 1219, Genghis Khan launched a successful campaign against the shah of Khwarazm reportedly with an army of up to 200,000 men. He transformed Mongolian society from one based on tribes to one capable of conquering and running an empire.",
-			"picture" : "https://www.nationalgeographic.com/content/dam/cultureexploration/Reference/mongols/mongols-01.adapt.1900.1.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.nationalgeographic.com/content/dam/cultureexploration/Reference/mongols/mongols-01.adapt.1900.1.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -238,7 +343,12 @@
 			"region" : ["Asia"],
 			"shift" : 0,
 			"description" : "The Song dynasty was an imperial dynasty of China that began in 960 and lasted until 1279. The dynasty was founded by Emperor Taizu of Song following his usurpation of the throne of the Later Zhou, ending the Five Dynasties and Ten Kingdoms period.",
-			"picture" : "https://img.etimg.com/thumb/msid-51641992,width-643,imgsize-288661,resizemode-4/kung-fu-panda-3-review-film-ticks-all-the-boxes.jpg"
+			"picture" : [
+				{
+					"url" : "https://img.etimg.com/thumb/msid-51641992,width-643,imgsize-288661,resizemode-4/kung-fu-panda-3-review-film-ticks-all-the-boxes.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -249,7 +359,12 @@
 			"region" : ["Asia"],
 			"shift" : 0,
 			"description" : "The Yuan Dynasty (1279–1368) was China's first foreign-led dynasty, in between the Chinese Song and Ming dynasties. It was established by Kublai Khan, leader of the vast Mongol Empire, and fell into internal rebellion after it lost touch with its Mongol roots.",
-			"picture" : "https://www.umiteasets.com/blog/wp-content/uploads/2018/12/Tea-Culture-Was-Simplified-in-the-Yuan-Dynasty.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.umiteasets.com/blog/wp-content/uploads/2018/12/Tea-Culture-Was-Simplified-in-the-Yuan-Dynasty.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -257,10 +372,15 @@
 			"type" : "range",
 			"begin" : 1405,
 			"end" : 1433,
-			"region" : ["Asia", "Africa &amp; the Islamic World"],
+			"region" : ["Asia", "Africa & the Islamic World"],
 			"shift" : 0,
 			"description" : "Zheng He was a Chinese explorer who lead seven great voyages on behalf of the Chinese emperor. These voyages traveled through the South China Sea, Indian Ocean, Arabian Sea, Red Sea, and along the east coast of Africa. His seven total voyages were diplomatic, military, and trading ventures, and lasted from 1405 – 1433.",
-			"picture" : "https://media.nationalgeographic.org/assets/photos/000/343/34326.jpg"
+			"picture" : [
+				{
+					"url" : "https://media.nationalgeographic.org/assets/photos/000/343/34326.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -268,10 +388,15 @@
 			"type" : "range",
 			"begin" : 1280,
 			"end" : 1337,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : -3,
 			"description" : "Mansa Musa (1280-1337) Mansa Musa, fourteenth century emperor of the Mali Empire, is the medieval African ruler most known to the world outside Africa. His elaborate pilgrimage to the Muslim holy city of Mecca in 1324 introduced him to rulers in the Middle East and in Europe.",
-			"picture" : "https://www.history.com/.image/t_share/MTU3ODc4NTk4NDIwNjY5NzY5/image-placeholder-title.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.history.com/.image/t_share/MTU3ODc4NTk4NDIwNjY5NzY5/image-placeholder-title.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -282,7 +407,12 @@
 			"region" : ["Europe"],
 			"shift" : -3,
 			"description" : "The Byzantine Empire, also referred to as the Eastern Roman Empire or Byzantium, was the continuation of the Roman Empire in its eastern provinces during Late Antiquity and the Middle Ages, when its capital city was Constantinople.",
-			"picture" : "https://www.history.com/.image/t_share/MTU3ODc5MDg3MjM2NjU0NDA5/walls-of-constantinople-and-the-city.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.history.com/.image/t_share/MTU3ODc5MDg3MjM2NjU0NDA5/walls-of-constantinople-and-the-city.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -290,10 +420,15 @@
 			"type" : "range",
 			"begin" : 1325,
 			"end" : 1349,
-			"region" : ["Africa &amp; the Islamic World", "Asia"],
+			"region" : ["Africa & the Islamic World", "Asia"],
 			"shift" : 9,
 			"description" : "In June 1325, at the age of twenty-one, Ibn Battuta set off from his hometown on a hajj, or pilgrimage, to Mecca, a journey that would ordinarily take sixteen months. He would not see Morocco again for twenty-four years.",
-			"picture" : "https://twothousandisles.com/wp-content/uploads/2016/05/ibns-1024x576.jpg"
+			"picture" : [
+				{
+					"url" : "https://twothousandisles.com/wp-content/uploads/2016/05/ibns-1024x576.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 2,
@@ -304,7 +439,12 @@
 			"region" : ["Europe", "Asia"],
 			"shift" : 3,
 			"description" : "Established when the Han Dynasty in China officially opened trade with the West in 130 B.C., the Silk Road routes remained in use until 1453 A.D., when the Ottoman Empire boycotted trade with China and closed them.",
-			"picture" : "https://cryptovest.com/images/thumbs/5bcdeba39d2eeb2e0c5dc503_700xauto.png"
+			"picture" : [
+				{
+					"url" : "https://cryptovest.com/images/thumbs/5bcdeba39d2eeb2e0c5dc503_700xauto.png",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -315,7 +455,12 @@
 			"region" : ["Asia"],
 			"shift" : 6,
 			"description" : "The Ming dynasty, officially the Great Ming, was the ruling dynasty of China from 1368 to 1644 following the collapse of the Mongol-led Yuan dynasty. The Ming dynasty was the last imperial dynasty of China ruled by Han Chinese.",
-			"picture" : "https://www.history.com/.image/t_share/MTU3ODc5MDg3NTAzMTg5MzIx/palace-of-the-ming-and-qing-dynasties-a-11-replica-of.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.history.com/.image/t_share/MTU3ODc5MDg3NTAzMTg5MzIx/palace-of-the-ming-and-qing-dynasties-a-11-replica-of.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -326,7 +471,12 @@
 			"region" : ["Europe"],
 			"shift" : 0,
 			"description" : "The Black Death, also known as the Pestilence, the Great Plague or the Plague, or less commonly the Black Plague, was one of the most devastating pandemics in human history, resulting in the deaths of an estimated 75 to 200 million people in Eurasia and peaking in Europe from 1347 to 1351.",
-			"picture" : "https://lithub.com/wp-content/uploads/2019/05/black-death.jpg"
+			"picture" : [
+				{
+					"url" : "https://lithub.com/wp-content/uploads/2019/05/black-death.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -337,7 +487,12 @@
 			"region" : ["Europe"],
 			"shift" : 6,
 			"description" : "The Renaissance was a period in European history marking the transition from the Middle Ages to Modernity and covering the 15th and 16th centuries. In addition to the standard periodization, proponents of a long Renaissance put its beginning in the 14th century and its end in the 17th century. 1300-1600.",
-			"picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1200px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+			"picture" : [
+				{
+					"url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1200px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 5,
@@ -348,7 +503,12 @@
 			"region" : ["Europe"],
 			"shift" : -3,
 			"description" : "The Age of Enlightenment was an intellectual and philosophical movement that dominated the world of ideas in Europe during the 18th century, the &ldquo;Century of Philosophy&rdquo;. The Enlightenment emerged out of a European intellectual and scholarly movement known as Renaissance humanism. 1715-1789.",
-			"picture" : "https://www.history.com/.image/t_share/MTU3ODc5MDg1MDkwMjE5MzM3/englightenment-hero.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.history.com/.image/t_share/MTU3ODc5MDg1MDkwMjE5MzM3/englightenment-hero.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 5,
@@ -359,7 +519,12 @@
 			"region" : ["Europe"],
 			"shift" : 3,
 			"description" : "The Scientific Revolution was a series of events that marked the emergence of modern science during the early modern period, when developments in mathematics, physics, astronomy, biology and chemistry transformed views of society about nature.",
-			"picture" : "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2019/03/Printing-press-by-Bettman.jpg"
+			"picture" : [
+				{
+					"url" : "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2019/03/Printing-press-by-Bettman.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -370,7 +535,12 @@
 			"region" : ["Asia"],
 			"shift" : 0,
 			"description" : "The Mughal Empire was an early-modern empire in South Asia. For some two centuries, the empire stretched from the outer fringes of the Indus basin in the west, and northern Afghanistan in the northwest.",
-			"picture" : "https://www.ancient-origins.net/sites/default/files/field/image/Mughal-empire.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.ancient-origins.net/sites/default/files/field/image/Mughal-empire.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 0,
@@ -381,7 +551,12 @@
 			"region" : ["Europe"],
 			"shift" : -6,
 			"description" : "An early astrolabe was invented in the Hellenistic civilization by Apollonius of Perga between 220 and 150 BC, often attributed to Hipparchus. The astrolabe was a marriage of the planisphere and dioptra, effectively an analog calculator capable of working out several different kinds of problems in astronomy.",
-			"picture" : "https://img1.cgtrader.com/items/2111803/4e2f4739a1/astrolabe-3d-model-low-poly-obj-mtl-fbx.jpg"
+			"picture" : [
+				{
+					"url" : "https://img1.cgtrader.com/items/2111803/4e2f4739a1/astrolabe-3d-model-low-poly-obj-mtl-fbx.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -392,7 +567,12 @@
 			"region" : ["Europe", "The Americas", "Asia"],
 			"shift" : 9,
 			"description" : "The Atlantic slave trade or transatlantic slave trade involved the transportation by slave traders of enslaved African people, mainly to the Americas. The slave trade regularly used the triangular trade route and its Middle Passage, and existed from the 16th to the 19th centuries. The Middle Passage was the stage of the triangular trade in which millions of Africans were forcibly transported to the New World as part of the Atlantic slave trade.",
-			"picture" : "https://thefunambulist.net/app/uploads/2016/01/Marie-Seraphine_The-Funambulist1-1440x656.jpg"
+			"picture" : [
+				{
+					"url" : "https://thefunambulist.net/app/uploads/2016/01/Marie-Seraphine_The-Funambulist1-1440x656.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -402,7 +582,12 @@
 			"region" : ["Europe", "The Americas"],
 			"shift" : -12,
 			"description" : "As Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives and landscapes on both sides of the ocean. These two-way exchanges between the Americas and Europe/Africa are known collectively as the Columbian Exchange.",
-			"picture" : "https://www.madisondodgeronline.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-24-at-8.19.57-AM.png"
+			"picture" : [
+				{
+					"url" : "https://www.madisondodgeronline.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-24-at-8.19.57-AM.png",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -410,10 +595,15 @@
 			"type" : "range",
 			"begin" : 1464,
 			"end" : 1591,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : -3,
 			"description" : "The Songhay Empire was a state that dominated the western Sahel in the 15th and 16th century. At its peak, it was one of the largest states in African history. The state is known for its historiographical name, derived from its leading ethnic group and ruling elite, the Songhay.",
-			"picture" : "https://1.bp.blogspot.com/-wdk3Y-FCcmw/WKQM6_rlVPI/AAAAAAAAdWU/cS3ta5J6Omk0XrRgk1Z2XHbqSp7ePoPAwCLcB/s1600/songhai.jpg"
+			"picture" : [
+				{
+					"url" : "https://1.bp.blogspot.com/-wdk3Y-FCcmw/WKQM6_rlVPI/AAAAAAAAdWU/cS3ta5J6Omk0XrRgk1Z2XHbqSp7ePoPAwCLcB/s1600/songhai.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -424,7 +614,12 @@
 			"region" : ["Asia", "Europe"],
 			"shift" : 6,
 			"description" : "Peter I, also known as Peter the Great, was the tsar and emperor of Russia from 1682 to 1725. He played a crucial role in westernizing Russia by changing its economy, government, culture, and religious affairs.",
-			"picture" : "https://upload.wikimedia.org/wikipedia/commons/9/94/Peter_the_Great%2C_Tsar_of_Russia.jpg"
+			"picture" : [
+				{
+					"url" : "https://upload.wikimedia.org/wikipedia/commons/9/94/Peter_the_Great%2C_Tsar_of_Russia.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 3,
@@ -435,7 +630,12 @@
 			"region" : ["Europe"],
 			"shift" : 12,
 			"description" : "The Ottoman Empire, known in Western Europe as the Turkish Empire or simply Turkey, was a state and caliphate that controlled much of Southeast Europe, Western Asia and North Africa between the 14th and early 20th centuries.",
-			"picture" : "https://www.economist.com/sites/default/files/images/print-edition/20170715_WFP015_0.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.economist.com/sites/default/files/images/print-edition/20170715_WFP015_0.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -446,7 +646,12 @@
 			"region" : ["Asia"],
 			"shift" : -6,
 			"description" : "The Qing dynasty, officially the Great Qing, was the last imperial dynasty of China. It was established in 1636, and ruled China proper from 1644 to 1911. It was preceded by the Ming dynasty and succeeded by the Republic of China.",
-			"picture" : "https://thumbs-prod.si-cdn.com/V0pTy9SQfImZFwRBel0clF63BnY=/420x240/https://public-media.si-cdn.com/filer/20110610021004sackler-qing-court-gallery.jpg"
+			"picture" : [
+				{
+					"url" : "https://thumbs-prod.si-cdn.com/V0pTy9SQfImZFwRBel0clF63BnY=/420x240/https://public-media.si-cdn.com/filer/20110610021004sackler-qing-court-gallery.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -457,7 +662,12 @@
 			"region" : ["Asia"],
 			"shift" : -3,
 			"description" : "A daimyo was a feudal lord in shogunate Japan from the 12th century to the 19th century. The daimyos were large landowners and vassals of the shogun. Each daimyo hired an army of samurai warriors to protect his family's lives and property.",
-			"picture" : "https://www.thoughtco.com/thmb/ISD5PBVDSnX9aq_wjOuob5TLoy8=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/counting-the-compensation-money-for-the-murder-of-mr-richardson--japan--1863--463986975-5c414db946e0fb0001708316.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.thoughtco.com/thmb/ISD5PBVDSnX9aq_wjOuob5TLoy8=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/counting-the-compensation-money-for-the-murder-of-mr-richardson--japan--1863--463986975-5c414db946e0fb0001708316.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -468,7 +678,12 @@
 			"region" : ["The Americas"],
 			"shift" : 3,
 			"description" : "In 1532, Spanish conquistadors under Francisco Pizarro first made contact with the mighty Inca Empire: it ruled parts of present-day Peru, Ecuador, Chile, Bolivia, and Colombia. The Spanish conquest of Peru was one of the most important campaigns in the Spanish colonization of the Americas.",
-			"picture" : "https://images.immediate.co.uk/production/volatile/sites/7/2018/04/GettyImages-644399718-4e3fbe9.jpg?quality=45&resize=620,413"
+			"picture" : [
+				{
+					"url" : "https://images.immediate.co.uk/production/volatile/sites/7/2018/04/GettyImages-644399718-4e3fbe9.jpg?quality=45&resize=620,413",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -479,7 +694,12 @@
 			"region" : ["The Americas"],
 			"shift" : 6,
 			"description" : "Hernan Cortés invaded Mexico in 1519 and conquered the Aztec Empire. Hernán Cortés was a Spanish conquistador, or conqueror, best remembered for conquering the Aztec empire in 1521 and claimed Mexico for Spain. He also helped colonize Cuba and became a governor of New Spain.",
-			"picture" : "https://www.nationalgeographic.com/content/dam/archaeologyandhistory/rights-exempt/history-magazine/2016/05-06/cortes/spanish-siege.ngsversion.1545123612631.adapt.1900.1.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.nationalgeographic.com/content/dam/archaeologyandhistory/rights-exempt/history-magazine/2016/05-06/cortes/spanish-siege.ngsversion.1545123612631.adapt.1900.1.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -487,10 +707,15 @@
 			"type" : "range",
 			"begin" : 1415,
 			"end" : 1600,
-			"region" : ["Africa &amp; the Islamic World"],
+			"region" : ["Africa & the Islamic World"],
 			"shift" : 3,
 			"description" : "Portuguese Explorations and West Africa. Motivated by the desire for new markets and an ongoing opposition to the Muslims, Portuguese sailors had begun to explore the West African coast in the first half of the fifteenth century. Bartolomeu Dias rounded the Cape of Good Hope at the southern tip of Africa.",
-			"picture" : "http://www.stephenhicks.org/wp-content/uploads/2012/01/amina-16th-century-map.jpg"
+			"picture" : [
+				{
+					"url" : "http://www.stephenhicks.org/wp-content/uploads/2012/01/amina-16th-century-map.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -501,7 +726,12 @@
 			"region" : ["The Americas"],
 			"shift" : -3,
 			"description" : "Jamestown Colony, the first permanent English settlement in North America, located near present-day Williamsburg, Virginia. Established on May 14, 1607, the colony gave England its first foothold in the European competition for the New World, which had been dominated by the Spanish since the voyages of Christopher Columbus in the late 15th century.",
-			"picture" : "https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY2MzEyNTcxNDY3NDc0NTc0/colony-of-jamestown-gettyimages-51246050.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY2MzEyNTcxNDY3NDc0NTc0/colony-of-jamestown-gettyimages-51246050.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -512,7 +742,12 @@
 			"region" : ["Asia"],
 			"shift" : 3,
 			"description" : "Sakoku was the isolationist foreign policy of the Japanese Tokugawa shogunate (aka Bakufu) under which, for a period of over 220 years, relations and trade between Japan and other countries were severely limited, nearly all foreign nationals were barred from entering Japan.",
-			"picture" : "https://upload.wikimedia.org/wikipedia/commons/b/b4/DejimaInNagasakiBay.jpg"
+			"picture" : [
+				{
+					"url" : "https://upload.wikimedia.org/wikipedia/commons/b/b4/DejimaInNagasakiBay.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -523,7 +758,12 @@
 			"region" : ["Europe"],
 			"shift" : -6,
 			"description" : "The Protestant Reformation was the 16th-century religious, political, intellectual and cultural upheaval that splintered Catholic Europe, setting in place the structures and beliefs that would define the continent in the modern era.",
-			"picture" : "https://www.intellectualtakeout.org/sites/ito/files/field/image/martin_luther.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.intellectualtakeout.org/sites/ito/files/field/image/martin_luther.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -534,7 +774,12 @@
 			"region" : ["Europe"],
 			"shift" : -3,
 			"description" : "The Counter-Reformation, was the period of Catholic resurgence that was initiated in response to the Protestant Reformation. It began with the Council of Trent and largely ended with the conclusion of the European wars of religion in 1648.",
-			"picture" : "https://res-3.cloudinary.com/amn/image/upload/c_fill,f_auto,h_340,w_727/v1509427751/The-counter-Reformation-1_rf15js.jpg"
+			"picture" : [
+				{
+					"url" : "https://res-3.cloudinary.com/amn/image/upload/c_fill,f_auto,h_340,w_727/v1509427751/The-counter-Reformation-1_rf15js.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -545,7 +790,12 @@
 			"region" : ["Europe", "Asia", "The Americas"],
 			"shift" : -9,
 			"description" : "The global silver trade between the Americas, Europe and China from the sixteenth to nineteenth centuries was a spillover of the Columbian Exchange which had a profound effect on the world economy.",
-			"picture" : "https://brewminate.com/wp-content/uploads/2019/01/010419-24-History-Early-Modern-Globalization-Trade.jpg"
+			"picture" : [
+				{
+					"url" : "https://brewminate.com/wp-content/uploads/2019/01/010419-24-History-Early-Modern-Globalization-Trade.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -556,7 +806,12 @@
 			"region" : ["Europe", "The Americas"],
 			"shift" : 0,
 			"description" : "The encomienda system was a labor system instituted by the Spanish crown in the American colonies. In this system, a Spanish encomendero was granted a number of native laborers who would pay tributes to him in exchange for his protection.",
-			"picture" : "https://www.thoughtco.com/thmb/sNCCBP7LJCEi95jgZK1w_nFmgL4=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/spanish-conquistadors-torturing-american-indians--1539-1542--463925165-5a6b6fbc119fa8003723a059.jpg"
+			"picture" : [
+				{
+					"url" : "https://www.thoughtco.com/thmb/sNCCBP7LJCEi95jgZK1w_nFmgL4=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/spanish-conquistadors-torturing-american-indians--1539-1542--463925165-5a6b6fbc119fa8003723a059.jpg",
+					"caption" : ""
+				}
+			]
 		},
 		{
 			"unit" : 4,
@@ -567,7 +822,12 @@
 			"region" : ["Europe", "The Americas"],
 			"shift" : -12,
 			"description" : "The History of the Kingdom of Dahomey spans 300 years from around 1600 until 1904 with the rise of the Kingdom of Dahomey as a major power on the Atlantic coast of modern-day Benin until French conquest. The kingdom became a major regional power in the 1720s.",
-			"picture" : "https://atlantablackstar.com/wp-content/uploads/2018/02/GettyImages-526614820.jpg"
+			"picture" : [
+				{
+					"url" : "https://atlantablackstar.com/wp-content/uploads/2018/02/GettyImages-526614820.jpg",
+					"caption" : ""
+				}
+			]
 		}
 	]
 }
