@@ -107,7 +107,7 @@ article header button span {
 }
 
 article nav button span {
-	padding: 1.5vh 0 0 0;
+	padding: 1.75vh 0 0 0;
 }
 
 #left {
@@ -136,6 +136,7 @@ article button {
 	vertical-align: top;
 	line-height: 1 !important;
 	padding: 0;
+	font: inherit;
 }
 
 article nav button {
